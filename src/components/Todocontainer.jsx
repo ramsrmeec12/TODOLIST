@@ -8,7 +8,7 @@ function TodoContainer()
   const [activityArr, setactivityArr] = useState([
     {
         id:1,
-        activity:"Go for a Walk"
+        activity:"Go for  Walk"
     },
     {
         id:2,
