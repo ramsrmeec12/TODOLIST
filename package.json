@@ -1,10 +1,5 @@
 {
-  "homepage": "https://ramsrmeec12.github.io/TODOLIST",
-"scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
-}
-
+  
   "name": "actodo",
   "version": "0.1.0",
   "private": true,
